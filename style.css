@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    font-size: 120px;
+}
+
+#mydiv {
+    width: 500px;
+    display: inline-block;
+}
+
+button {
+    background-color: white;
+    border: none;
+}
+
+#texte {
+    margin: 20px;
+    font-size: 40px;
+}
+
+#title {
+    margin: 40px;
+    font-size: 80px;
+}
+
+#center {
+    text-align: center;
+}
